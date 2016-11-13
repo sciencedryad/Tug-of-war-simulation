@@ -1,0 +1,10 @@
+Parameters for tug of war simulation in folder Test/
+numberOfTrajectories = 1, equilibration time = 1e+06, maxTime = 1.1e+07, numberOfTimes = 10, timeInterval = 1.1e+06
+Np = 4, Nm = 4
+inititalCondition = 8
+random number seed  = 260, writeTrajectory = 1
+epsP = 1, epsM = 1, piP = 5, piM = 5 => KP = 0.2,  KM = 0.2
+FsP = 12, FsM = 6.84, FdP = 3, FdM = 3 => fP = 4, fM = 2.28
+gPlus = 1, gMinus = 1bPlus = 1, bMinus = 1
+vP = 1vM =1, velocityModel = blockRL, betaPlus = 0.05, betaMinus = 0.05
+used time: 0 sec = 0 min = 0 h
