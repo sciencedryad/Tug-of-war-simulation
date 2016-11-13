@@ -1,0 +1,1 @@
+const int Np = 3;const int Nm=Np;char folderName[80]="TestStat/";//"../SIMPhaseDiag2/PhaseDiagN05Beta0.05/";///"../SIMSwitchTime/Switch/";//"../SIMPhaseDiagAsym/PhaseDiagNp7Nm5/";//"../SIMPhaseDiag/PhaseDiagN05G1/";//"../SIMPhaseDiag/PhaseDiagN05Beta0.20/";//"../EntropyK/";//"../PhaseDiagBeta0.20/";char generalFileName[80] = "../SIMSwitchTime/generalStuff.dat";
