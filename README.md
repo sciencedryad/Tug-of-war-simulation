@@ -2,7 +2,10 @@
 
 Code for simulation of molecular motor tug-of-war: Cargo transport by two opposing teams of molecular motors. 
 
+## Folders
 
+- TugOfWarTrajectories: simulation of trajectories of a cargo transported by two teams of molecular motors.
+- TugOfWarStationary: calculation of stationary motility states (phase diagram) of cargo transported by two teams of molecular motors.
 
 ## References
 
