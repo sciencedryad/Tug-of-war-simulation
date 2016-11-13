@@ -16,3 +16,8 @@ doi: 10.1073/pnas.0706825105
 MJI Müller, S Klumpp, R Lipowsky<br>
 Biophysical journal 98 (11), 2610-2618.<br>
 doi: 10.1016/j.bpj.2010.02.037
+
+[3] [Motility states of molecular motors engaged in a stochastic tug-of-war](http://link.springer.com/content/pdf/10.1007/s10955-008-9651-7.pdf)<br>
+MJI Müller, S Klumpp, R Lipowsky<br>
+Journal of Statistical Physics 133 (6), 1059-1081<br>
+doi: 10.1007/s10955-008-9651-7
